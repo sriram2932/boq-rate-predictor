@@ -1,0 +1,123 @@
+item_no,description,unit,quantity,rate
+C01,Grade 25 concrete in foundations,m3,185,164.57
+C02,Grade 25 concrete in foundations,m3,222,159.63
+C03,Grade 25 concrete in columns,m3,57,209.14
+C04,Grade 25 concrete in columns,m3,68,199.59
+C05,Grade 25 concrete in beams,m3,49,199.14
+C06,Grade 25 concrete in beams,m3,129,180.87
+C07,Grade 25 concrete in slabs,m3,242,170.02
+C08,Grade 25 concrete in slabs,m3,143,165.19
+C09,Grade 25 concrete in walls,m3,237,174.82
+C10,Grade 25 concrete in walls,m3,309,175.58
+C11,Grade 30 concrete in foundations,m3,134,184.29
+C12,Grade 30 concrete in foundations,m3,318,188.57
+C13,Grade 30 concrete in columns,m3,315,225.17
+C14,Grade 30 concrete in columns,m3,45,238.05
+C15,Grade 30 concrete in beams,m3,43,216.94
+C16,Grade 30 concrete in beams,m3,88,209.82
+C17,Grade 30 concrete in slabs,m3,93,197.73
+C18,Grade 30 concrete in slabs,m3,312,191.04
+C19,Grade 30 concrete in walls,m3,369,199.29
+C20,Grade 30 concrete in walls,m3,317,207.61
+C21,Grade 40 concrete in foundations,m3,116,208.23
+C22,Grade 40 concrete in foundations,m3,300,213.54
+C23,Grade 40 concrete in columns,m3,308,240.72
+C24,Grade 40 concrete in columns,m3,125,253.8
+C25,Grade 40 concrete in beams,m3,292,238.78
+C26,Grade 40 concrete in beams,m3,180,240.76
+C27,Grade 40 concrete in slabs,m3,252,220.62
+C28,Grade 40 concrete in slabs,m3,147,231.43
+C29,Grade 40 concrete in walls,m3,377,240.83
+C30,Grade 40 concrete in walls,m3,61,239.95
+S01,T10 reinforcement steel bars in slabs,kg,17709,3.4
+S02,T10 reinforcement steel bars in beams,kg,11755,3.51
+S03,T10 reinforcement steel bars in columns,kg,9935,3.55
+S04,T10 reinforcement steel bars in walls,kg,2898,3.34
+S05,T10 reinforcement steel bars in staircases,kg,14201,3.45
+S06,T12 reinforcement steel bars in slabs,kg,11708,2.97
+S07,T12 reinforcement steel bars in beams,kg,16522,3.08
+S08,T12 reinforcement steel bars in columns,kg,3043,3.24
+S09,T12 reinforcement steel bars in walls,kg,19276,3.17
+S10,T12 reinforcement steel bars in staircases,kg,10780,3.16
+S11,T16 reinforcement steel bars in slabs,kg,11974,2.77
+S12,T16 reinforcement steel bars in beams,kg,19502,2.87
+S13,T16 reinforcement steel bars in columns,kg,2753,2.95
+S14,T16 reinforcement steel bars in walls,kg,9345,2.79
+S15,T16 reinforcement steel bars in staircases,kg,2629,2.8
+S16,T20 reinforcement steel bars in slabs,kg,10645,2.53
+S17,T20 reinforcement steel bars in beams,kg,15102,2.51
+S18,T20 reinforcement steel bars in columns,kg,13141,2.7
+S19,T20 reinforcement steel bars in walls,kg,11870,2.45
+S20,T20 reinforcement steel bars in staircases,kg,15628,2.62
+S21,T25 reinforcement steel bars in slabs,kg,4336,2.35
+S22,T25 reinforcement steel bars in beams,kg,7650,2.45
+S23,T25 reinforcement steel bars in columns,kg,4738,2.52
+S24,T25 reinforcement steel bars in walls,kg,13538,2.38
+S25,T25 reinforcement steel bars in staircases,kg,16769,2.42
+S26,T32 reinforcement steel bars in slabs,kg,15218,2.18
+S27,T32 reinforcement steel bars in beams,kg,9604,2.32
+S28,T32 reinforcement steel bars in columns,kg,14607,2.39
+S29,T32 reinforcement steel bars in walls,kg,9623,2.29
+S30,T32 reinforcement steel bars in staircases,kg,12256,2.38
+F01,Timber formwork to columns,m2,829,83.66
+F02,Timber formwork to beams,m2,359,70.91
+F03,Timber formwork to slabs,m2,359,60.34
+F04,Timber formwork to walls,m2,527,66.58
+F05,Timber formwork to soffits,m2,423,66.39
+F06,Steel formwork to columns,m2,58,102.24
+F07,Steel formwork to beams,m2,1144,98.69
+F08,Steel formwork to slabs,m2,702,91.99
+F09,Steel formwork to walls,m2,1105,100.32
+F10,Steel formwork to soffits,m2,160,93.59
+F11,Plywood formwork to columns,m2,1195,71.23
+F12,Plywood formwork to beams,m2,867,65.3
+F13,Plywood formwork to slabs,m2,1036,54.73
+F14,Plywood formwork to walls,m2,177,60.08
+F15,Plywood formwork to soffits,m2,477,59.64
+F16,Timber formwork to slabs,m2,157,59.53
+F17,Plywood formwork to beams,m2,1148,63.37
+F18,Steel formwork to soffits,m2,102,89.96
+F19,Timber formwork to soffits,m2,820,65.61
+F20,Steel formwork to slabs,m2,795,87.77
+B01,100mm lightweight concrete block wall,m2,148,49.67
+B02,100mm lightweight concrete block wall,m2,507,47.91
+B03,100mm lightweight concrete block partition,m2,349,46.01
+B04,100mm lightweight concrete block partition,m2,134,49.2
+B05,150mm lightweight concrete block wall,m2,301,57.88
+B06,150mm lightweight concrete block wall,m2,195,58.09
+B07,150mm lightweight concrete block partition,m2,240,60.62
+B08,150mm lightweight concrete block partition,m2,570,57.2
+B09,200mm lightweight concrete block wall,m2,586,70.82
+B10,200mm lightweight concrete block wall,m2,570,66.63
+B11,200mm lightweight concrete block partition,m2,123,69.33
+B12,200mm lightweight concrete block partition,m2,297,68.13
+FN01,Cement plaster to walls,m2,271,27.6
+FN02,Cement plaster to walls,m2,328,28.09
+FN03,Cement plaster to ceilings,m2,307,31.45
+FN04,Cement plaster to ceilings,m2,164,32.36
+FN05,Cement sand screed to floors,m2,876,24.85
+FN06,Cement sand screed to floors,m2,345,24.76
+FN07,Ceramic floor tiling to bathrooms,m2,78,63.05
+FN08,Ceramic floor tiling to bathrooms,m2,146,64.06
+FN09,Homogeneous floor tiling to corridors,m2,64,81.82
+FN10,Homogeneous floor tiling to corridors,m2,193,77.78
+FN11,Emulsion paint to walls,m2,596,12.23
+FN12,Emulsion paint to walls,m2,905,11.94
+FN13,Emulsion paint to ceilings,m2,457,13.59
+FN14,Emulsion paint to ceilings,m2,473,12.45
+FN15,Timber skirting to rooms,m,102,17.51
+FN16,Timber skirting to rooms,m,150,17.71
+M01,Copper cable 2.5mm2 in PVC conduit,m,594,6.58
+M02,Copper cable 4mm2 in PVC conduit,m,724,9.31
+M03,Copper cable 6mm2 in PVC conduit,m,295,12.49
+M04,PVC conduit 20mm diameter,m,452,8.24
+M05,PVC conduit 25mm diameter,m,143,10.33
+M06,LED downlight fitting,nr,25,88.48
+M07,Ceiling fan with regulator,nr,17,119.74
+M08,Water closet suite,nr,7,447.03
+M09,Wash basin with pedestal,nr,12,306.78
+M10,Kitchen sink single bowl,nr,13,277.08
+M11,Ceiling fan with regulator,nr,10,122.7
+M12,Copper cable 6mm2 in PVC conduit,m,115,11.43
+M13,Kitchen sink single bowl,nr,9,288.58
+M14,Copper cable 6mm2 in PVC conduit,m,363,12.39
